@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CafeVicente</string>
+    <string name= "inicio_titulo">Café Vicente</string>
+    <string name= "inicio_descrip">Gran café hecho simple. Empieza tus mañanas con los mejores cafés del mundo. Pruebe nuestros cafés artesanales curados por expertos de nuestros mejores tostadores entregados directamente en su puerta, a su horario.</string>
+    <string name= "btn_inicio">Crear plan de suscripcion</string>
+    <string name="cafe_negro">Cafe negro</string>
+    <string name= "btn_cafe1">Suscripcion</string>
+    <string name="cafe_blanco">Cafe Blanco</string>
+    <string name= "btn_cafe2">suscripcion</string>
+    <string name="cafe_cafe3">Cafe de granos</string>
+    <string name= "btn_cafe3">suscripcion</string>
 </resources>
